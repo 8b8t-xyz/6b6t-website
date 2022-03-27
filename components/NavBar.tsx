@@ -61,22 +61,22 @@ const NavBar: NextPage = () => {
                         </Link>
                     </div>
                     <div className="text-center p-1 lg:p-5">
-                        <a className="nav" href="https://store-6b6t.tebex.io">
-                            Donate
+                        <a className="nav" href="https://donate.8b8t.xyz">
+                            Donate(not online)
                         </a>
                     </div>
                     <div className="text-center p-1 lg:p-5">
-                        <a className="nav" href="https://track.6b6t.org">
-                            Track
+                        <a className="nav" href="https://track.8b8t.xyz">
+                            Track(not online)
                         </a>
                     </div>
                     <div className="text-center p-1 lg:p-5">
-                        <a className="nav" href="https://spawn.6b6t.org">
+                        <a className="nav" href="https://spawn.8b8t.xyz">
                             Spawn
                         </a>
                     </div>
                     <div className="text-center p-1 lg:p-5">
-                        <a className="nav" href="https://dsc.gg/6b6t.org">
+                        <a className="nav" href="https://discord.gg/DMn9W25bhf">
                             Discord
                         </a>
                     </div>
