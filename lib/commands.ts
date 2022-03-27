@@ -98,7 +98,7 @@ export var commands: Categories[] = [
                 name: '/nick',
                 description: 'change your nickname and the color of it',
                 limited: {
-                    name: '[VIP+ and MIP]'
+                    name: '[dono 1 and 2]'
                 }
             },
         ]
