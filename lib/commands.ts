@@ -30,27 +30,9 @@ export var commands: Categories[] = [
                 description: 'cancel a teleport request'
             },
             {
-                name: '/home <home name>',
-                description: 'teleport to your home'
-            },
-            {
-                name: '/sethome <home name>',
-                description: 'set a new home'
-            },
-            {
-                name: '/delhome <home name>',
-                description: 'delete a home'
-            },
-            {
                 name: '/tptoggle',
-                description: 'prevent anyone from sending teleportation requests to you',
-                limited: {
-                    name: '[VIP+ and MIP]'
-                }
-            },
-            {
-                name: '/lobby',
-                description: 'teleport to the server authentication server'
+                description: 'prevent anyone from sending teleportation requests to you'
+                
             },
             {
                 name: '/kill',
@@ -66,11 +48,11 @@ export var commands: Categories[] = [
                 description: 'message a player'
             },
             {
-                name: '/reply',
+                name: '/r',
                 description: 'reply to the last player who messaged you'
             },
             {
-                name: '/last',
+                name: '/l',
                 description: 'message the last player you messaged'
             },
             {
@@ -85,10 +67,6 @@ export var commands: Categories[] = [
                 name: '/togglechat',
                 description: 'prevent getting chat messages'
             },
-            {
-                name: '/togglewhispering',
-                description: 'prevent getting private messages'
-            },
         ]
     },
     {
@@ -99,23 +77,8 @@ export var commands: Categories[] = [
                 description: 'check server statistics '
             },
             {
-                name: '/ping <player name>',
-                description: 'check yours or players ping in milliseconds',
-                limited: {
-                    name: '[VIP+ and MIP]'
-                }
-            },
-            {
                 name: '/tps',
                 description: 'check server tps and cpu usage'
-            },
-            {
-                name: '/online',
-                description: 'check how many players are currently online on the server you are on'
-            },
-            {
-                name: '/joindate <player name>',
-                description: 'check the join date of a player'
             },
         ],
     },
@@ -123,37 +86,14 @@ export var commands: Categories[] = [
         name: 'Server Socials Commands',
         commands: [
             {
-                name: '/website',
-                description: 'link to the official website'
-            },
-            {
                 name: '/discord',
                 description: 'link to the official discord'
-            },
-            {
-                name: '/donate',
-                description: 'link to the official donation page'
             }
         ]
     },
     {
         name: 'Player Customization Commands',
         commands: [
-            {
-                name: '/language',
-                description: 'change the language of server messages'
-            },
-            {
-                name: '/hat',
-                description: 'put an item on your head',
-                limited: {
-                    name: '[Voter, VIP, VIP+ and MIP]'
-                }
-            },
-            {
-                name: '/skin <premium player name>',
-                description: 'change your skin'
-            },
             {
                 name: '/nick',
                 description: 'change your nickname and the color of it',
