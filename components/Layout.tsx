@@ -32,13 +32,13 @@ export default function Layout({children}: { children: ReactNode }) {
         import("@widgetbot/crate").then((importContent) => {
             importContent.cdn().then(crateCDN => {
                 const crateInstance = new crateCDN({
-                    server: '917520262797344779',
-                    channel: '917520263384563717',
+                    server: '945425984667131905',
+                    channel: '950998252365422623',
                     color: '#000',
                     location: ['bottom', 'right']
                 })
 
-                crateInstance.notify('Click me to chat on the 6b6t discord server!')
+                crateInstance.notify('Click me to chat on the 8b8t discord server!')
 
                 setCrate(crateInstance)
             })
