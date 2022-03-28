@@ -52,7 +52,7 @@ const Home: NextPage = () => {
             <section className="mb-3">
                 <h3>Limitations</h3>
                 <ul className="list-disc">
-                    <li>Teleportation commands are not available during combat and in 2048x2048 spawn area</li>
+                    <li>Website was originally made by pistonmaster, skidded by KingSpidicy</li>
                 </ul>
             </section>
         </Layout>
