@@ -66,8 +66,8 @@ const NavBar: NextPage = () => {
                         </a>
                     </div>
                     <div className="text-center p-1 lg:p-5">
-                        <a className="nav" href="https://track.8b8t.xyz">
-                            Track(not online)
+                        <a className="nav" href="https://github.com/8b8t-xyz/">
+                            8b8t GitHub
                         </a>
                     </div>
                     <div className="text-center p-1 lg:p-5">
