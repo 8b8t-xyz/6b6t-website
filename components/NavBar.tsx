@@ -80,6 +80,11 @@ const NavBar: NextPage = () => {
                             Discord
                         </a>
                     </div>
+                    <div className="text-center p-1 lg:p-5">
+                        <a className='nav' href="https://github.com/TudbuT/ttc">
+                            TTC
+                        </a>
+                    </div>
                     <div className="text-center p-1 pb-0 lg:p-5 lg:flex-shrink-0 lg:w-52">
                         {onlineText}
                     </div>
