@@ -1,3 +1,3 @@
-# 6b6t-website
+# 8b8t-website
 
-The new 6b6t.org website rewrite.
+The new 8b8t.xyz website rewrite.
