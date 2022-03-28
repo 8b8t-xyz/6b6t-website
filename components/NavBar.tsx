@@ -71,8 +71,8 @@ const NavBar: NextPage = () => {
                         </a>
                     </div>
                     <div className="text-center p-1 lg:p-5">
-                        <a className="nav" href="https://spawn.8b8t.xyz">
-                            Spawn
+                        <a className="nav" href="https://tudbut.de:85">
+                            Forums
                         </a>
                     </div>
                     <div className="text-center p-1 lg:p-5">
