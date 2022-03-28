@@ -78,7 +78,7 @@ export default function Layout({children}: { children: ReactNode }) {
                 <footer className="flex-shrink flex flex-row">
                     <div className="flex flex-col justify-end">
                         <div className="bg-black p-1.5 text-sm">
-                            <p>Map render by Agent Smith#9660</p>
+                            <p>Screenshot taken by amnesia#1429</p>
                         </div>
                     </div>
                 </footer>
