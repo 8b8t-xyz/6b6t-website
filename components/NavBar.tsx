@@ -61,7 +61,7 @@ const NavBar: NextPage = () => {
                         </Link>
                     </div>
                     <div className="text-center p-1 lg:p-5">
-                        <a className="nav" href="donate.8b8t.xyz">
+                        <a className="nav" href="https://donate.8b8t.xyz">
                             Donate
                         </a>
                     </div>
