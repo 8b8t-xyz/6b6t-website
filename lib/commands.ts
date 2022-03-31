@@ -95,10 +95,10 @@ export var commands: Categories[] = [
         name: 'Player Customization Commands',
         commands: [
             {
-                name: '/nick and /nc',
+                name: '/nick and /nick with color',
                 description: 'change your nickname and or the color of it',
                 limited: {
-                    name: '[dono 1 for /nc and dono 2 for /nick and /nc]'
+                    name: '[dono 1 for /nick and dono 2 for /nick and /nick with color]'
                 }
             },
         ]
