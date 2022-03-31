@@ -102,14 +102,14 @@ export var commands: Categories[] = [
                 name: '/nick',
                 description: 'change your nickname',
                 limited: {
-                    name: '[only allows you to change your nickname]'
+                    name: '[DONATORS ONLY]'
                 }
             },
             {
                 name: '/nick with formatting',
                 description: "Change your nickname's or name's color",
                 limited: {
-                    name: '[only allows you to change the color of your nickname (must have bought these commands from the donation site)]'
+                    name: '[DONATORS ONLY]'
                 }
             },
         ]
