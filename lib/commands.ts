@@ -92,6 +92,10 @@ export var commands: Categories[] = [
             {
                 name: '/discord',
                 description: 'link to the official discord'
+            },           
+            {
+                name: '/donate',
+                description: 'link to the donation site'
             }
         ]
     },
