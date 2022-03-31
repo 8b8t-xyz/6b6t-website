@@ -64,6 +64,10 @@ export var commands: Categories[] = [
                 description: 'ignore the player forever'
             },
             {
+                name: '/ignorelist',
+                description: 'shows who you have in your ignored list and if they are hard ignored or not'
+            },
+            {
                 name: '/togglechat',
                 description: 'prevent getting chat messages'
             },
@@ -95,10 +99,17 @@ export var commands: Categories[] = [
         name: 'Player Customization Commands',
         commands: [
             {
-                name: '/nick and /nick with color',
-                description: 'change your nickname and or the color of it',
+                name: '/nick',
+                description: 'change your nickname',
                 limited: {
-                    name: '[dono 1 for /nick and dono 2 for /nick and /nick with color]'
+                    name: '[only allows you to change your nickname]'
+                }
+            },
+            {
+                name: '/nick with formatting',
+                description: "Change your nickname's color",
+                limited: {
+                    name: '[only allows you to change the color of your nickname (must have bought these commands from the donation site)]'
                 }
             },
         ]
