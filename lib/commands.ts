@@ -117,5 +117,18 @@ export var commands: Categories[] = [
                 }
             },
         ]
+    },
+    {
+        name: 'security',
+        description: [
+            {
+                name: '/2fa enable',
+                description: 'gives you access to /2fa commands and adds more security to your playerdata',
+                limited: {
+                    name: '[ONLY AVAILABLE FOR THOSE WHO PURCHASED AND PAY $2.50 MONTHLY FOR THE 2FA PACKAGE]'
+                }
+            },
+        ]
+    }
     }
 ]
