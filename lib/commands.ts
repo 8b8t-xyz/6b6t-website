@@ -118,5 +118,4 @@ export var commands: Categories[] = [
             },
         ]
     },
-    }
 ]
