@@ -100,7 +100,7 @@ export var commands: Categories[] = [
         ]
     },
     {
-        name: 'Player Customization Commands',
+        name: 'Player Customization Commands and security',
         commands: [
             {
                 name: '/nick',
@@ -114,6 +114,13 @@ export var commands: Categories[] = [
                 description: "Change your nickname's or name's color",
                 limited: {
                     name: '[DONATORS ONLY]'
+                }
+            },
+            {
+                name: '/2fa enable',
+                description: 'adds protection to your playerdata',
+                limited: {
+                    name: '[DONATORS ONLY, MUST USE GOOGLE AUTH APP]'
                 }
             },
         ]
