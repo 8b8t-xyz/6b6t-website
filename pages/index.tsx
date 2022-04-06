@@ -12,7 +12,7 @@ const Home: NextPage = () => {
                 <li>RAM: 64GB DDR4</li>
                 <li>STORAGE: 2x8TB Datacenter grade HDDs</li>
                 <li>DDOS Protection: Cosmicguard</li>
-                <li>8b8t is a non-vanilla anarchy server with no rules which means everything is
+                <li>8b8t is a non-vanilla semi-cracked anarchy server with no rules which means everything is
                     allowed and you can not get punished.
                 </li>
             </ul>
@@ -29,10 +29,10 @@ const Home: NextPage = () => {
 
             <h3>What is 8b8t?</h3>
             <p>
-                8b8t is a Minecraft Anarchy Server, that means there are no rules. It&apos;s one of the
-                few
-                32k meta anarchy servers which allows 32k weapons and illegals. The
-                server is semi-vanilla, it has commands like /tpa,and /nick aswell as /nc. 8b8t started March 17
+                8b8t is a semi cracked Minecraft Anarchy Server, that means there are no rules. It&apos;s the
+                only
+                semi-cracked 32k meta anarchy servers which allows 32k weapons and illegals. The
+                server is semi-vanilla and semi cracked, it has commands like /tpa,and /nick with name colour. 8b8t started March 17
                 2022 and the map will never reset.
             </p>
 
