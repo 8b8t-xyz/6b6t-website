@@ -47,6 +47,15 @@ const Home: NextPage = () => {
                 Yes, the 8b8t admin has already patched most of the lag machines and if you help us find a
                 working one, he will reward you.
             </p>
+            <h3>Announcements:</h3>
+            <ul className="mb-3">
+                <li>8b8t is now the first semi-cracked anarchy server</li>
+                <li>Virus and Diowz have become engaged congrats from the 8b8t staff team</li>
+                <li>somewhat fixed the anticheat</li>
+                <li>fixed tablist</li>
+                <li>fixed premium accounts not authenticating with mojang</li>
+                <li>Added a way to reset your password automatically if you are on a cracked account</li>
+            </ul>
         </Layout>
     )
 }
